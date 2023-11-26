@@ -14,10 +14,10 @@
         "dialect": "mysql"
     },
     "production": {
-        "username": "postgres",
-        "password": "AEGA3GDgbAg2B3DB54AD5AG66B4cG3c5",
-        "database": "railway",
-        "host": "roundhouse.proxy.rlwy.net",
+        "username": "postgres_buhi_user",
+        "password": "v6HaJHZVYMKW0uC98yUXC9DqoKXCLOFk",
+        "database": "postgres_buhi",
+        "host": "dpg-clhn0dt8td7s73bpps7g-a",
         "dialect": "postgres"
     }
 }
