@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
-const port = 4000 || process.env.PORT;
-const expressHbs = require('express-handlebars');
+const port = process.env.PORT || 4000;
+const expressHbs = require("express-handlebars");
 const paginateHelper = require('express-handlebars-paginate');
 
 app.use(express.static(__dirname + '/html'));
@@ -69,4 +69,4 @@ app.get('/createTables', (req, res) => {
     });
 });
 
-app.listen(port, () => console.log(`Example app listening on port ${port}`));
+app.listen(port, "0.0.0.0", () => console.log(`Example app listening on port ${port}`));
