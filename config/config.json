@@ -15,7 +15,7 @@
     },
     "production": {
         "username": "postgres",
-        "password": "5*D*3bAFd64a-3*c3gD2c*G56GEBG*Bg",
+        "password": "AEGA3GDgbAg2B3DB54AD5AG66B4cG3c5",
         "database": "railway",
         "host": "roundhouse.proxy.rlwy.net",
         "dialect": "postgres"
