@@ -17,7 +17,7 @@
         "username": "postgres_buhi_user",
         "password": "v6HaJHZVYMKW0uC98yUXC9DqoKXCLOFk",
         "database": "postgres_buhi",
-        "host": "dpg-clhn0dt8td7s73bpps7g-a",
+        "host": "postgres://postgres_buhi_user:v6HaJHZVYMKW0uC98yUXC9DqoKXCLOFk@dpg-clhn0dt8td7s73bpps7g-a/postgres_buhi",
         "dialect": "postgres"
     }
 }
